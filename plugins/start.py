@@ -124,8 +124,8 @@ REPLY_ERROR = "<code>Use this command as a reply to any telegram message without
 async def not_joined(client: Client, message: Message):
     buttons = [
         [
-            InlineKeyboardButton(text="⛩️Cʜᴀɴɴᴇʟ 𝟷⛩️", url=client.invitelink),
-            InlineKeyboardButton(text="⚡Cʜᴀɴɴᴇʟ 𝟸⚡", url=client.invitelink2),
+            InlineKeyboardButton(text="⛩️ Cʜᴀɴɴᴇʟ 𝟷 ⛩️", url=client.invitelink),
+            InlineKeyboardButton(text="⛩️ Cʜᴀɴɴᴇʟ 𝟸 ⛩️", url=client.invitelink2),
         ]
     ]
     try:
