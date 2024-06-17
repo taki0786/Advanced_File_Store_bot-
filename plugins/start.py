@@ -86,8 +86,8 @@ async def start_command(client: Client, message: Message):
             InlineKeyboardButton("ʜᴇʟᴘ​", callback_data="help")
         ],
         [
-            InlineKeyboardButton("ᴄʜᴀɴɴᴇʟ", url="https://t.me/jjustanime"),
-            InlineKeyboardButton("ᴏɴɢᴏɪɴɢ", url="https://t.me/indanimehindidubbed")
+            InlineKeyboardButton("Uᴘᴅᴀᴛᴇ Cʜᴀɴɴᴇʟ", url="https://t.me/jjustanime"),
+            InlineKeyboardButton("🌐Oᴜʀ Bᴀsᴇ", url="https://t.me/+bBX1OvzJPgZkNzZl")
         ],
         [
             InlineKeyboardButton("💥ᴄʟᴏꜱᴇ💥", callback_data="close")
